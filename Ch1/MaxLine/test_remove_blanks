@@ -1,0 +1,8 @@
+This is a line without blank except the newline character.
+This is a line with 3 trailing tabs.			
+This is a line with 2 trailing tabs and 1 space. 		
+This is a line with ??? space characters.                                                                                             
+
+The line above only has the newline character.
+                 					 	 	 	 	 	  	 
+The line above consists of blanks and tabs character. Expect to remove it.
